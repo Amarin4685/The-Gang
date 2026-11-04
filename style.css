@@ -76,7 +76,7 @@ p{
 	background-size: 100%;
 	width: 363px;
 	height: 344px;
-	position: absolute; top: 117px; right: 5%;
+	position: absolute; top: 310px; right: 5%;
 	transform: rotate(15deg);
 }
 
@@ -85,7 +85,7 @@ p{
 	background-size: 100%;
 	width: 309px;
 	height: 371px;
-	position: absolute; top: 213px; right: 277px;
+	position: absolute; top: 400px; right: 277px;
 }
 
 .character3{
@@ -93,7 +93,7 @@ p{
 	background-size: 100%;
 	width: 297px;
 	height: 286px;
-	position: absolute; bottom: 300px; right: 109px;
+	position: absolute; bottom: 390px; right: 109px;
 }
 
 a.cta,
